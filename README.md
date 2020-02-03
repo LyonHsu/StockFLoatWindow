@@ -32,8 +32,8 @@ https://mis.twse.com.tw/stock/fibest.jsp?stock=70005X　精華元大66展02
     http://mis.twse.com.tw/stock/api/getStockInfo.jsp?ex_ch=tse_1101.tw|tse_1102.tw|tse_1103.tw&json=1&delay=0&_=1552123547443
 
   上櫃:
-
-    http://mis.twse.com.tw/stock/api/getStockInfo.jsp?ex_ch=otc_70005X&json=1&delay=0 
+  
+    https://mis.twse.com.tw/stock/api/getStockInfo.jsp?ex_ch=otc_70005X.tw&json=1&delay=0
 
 
     var hostname = window.location.hostname;
